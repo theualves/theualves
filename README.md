@@ -1,5 +1,5 @@
-<h1 align="center">Olá👋, eu sou Matheus</h1>
-<h3 align="center">Estudante de Programação</h3>
+<h1 align="center">Hi👋, I'm Matheus</h1>
+<h3 align="center">I am a programming student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
